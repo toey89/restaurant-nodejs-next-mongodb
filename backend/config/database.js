@@ -8,8 +8,8 @@ module.exports = ({ env }) => ({
         srv: env.bool('DATABASE_SRV', true),
         port: env.int('DATABASE_PORT', 27017),
         database: env('DATABASE_NAME', 'backend'),
-        username: env('DATABASE_USERNAME', 'toey'),
-        password: env('DATABASE_PASSWORD', '1234'),
+        username: env('DATABASE_USERNAME', ''),
+        password: env('DATABASE_PASSWORD', ''),
       },
       options: {
         authenticationDatabase: env('AUTHENTICATION_DATABASE', null),
