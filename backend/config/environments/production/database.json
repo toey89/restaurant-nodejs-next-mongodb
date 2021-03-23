@@ -1,0 +1,14 @@
+{
+    "defaultConnection": "default",
+    "connections": {
+      "default": {
+        "connector": "mongoose",
+        "settings": {
+          "uri": "mongodb+srv://toey:1234@cluster0.owckq.mongodb.net/backend?retryWrites=true&w=majority"
+        },
+        "options": {
+          "ssl": true
+        }
+      }
+    }
+  }

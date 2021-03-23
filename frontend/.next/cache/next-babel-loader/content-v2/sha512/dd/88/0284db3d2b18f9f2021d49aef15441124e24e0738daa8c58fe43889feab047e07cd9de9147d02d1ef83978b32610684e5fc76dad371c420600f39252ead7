@@ -1,0 +1,1 @@
+{"ast":null,"code":"/* /context/AppContext.js */\nimport React from \"react\"; // create auth context with default value\n// set backup default for isAuthenticated if none is provided in Provider \n\nvar AppContext = /*#__PURE__*/React.createContext({\n  isAuthenticated: false\n});\nexport default AppContext;","map":null,"metadata":{},"sourceType":"module"}
