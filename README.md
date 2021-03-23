@@ -6,7 +6,7 @@ The easiest way to try this starter is to run it locally on your computer.
 
 ## Backend
 Open terminal tab, and make sure you're in the frontend directory:
-```js
+```
 cd backend
 ```
 Install dependencies
@@ -27,7 +27,7 @@ It is running here => http://localhost:1337/admin
 
 ## Frontend
 Access to the frontend directory:
-```js
+```
 cd.. & cd frontend
 ```
 Install dependencies
