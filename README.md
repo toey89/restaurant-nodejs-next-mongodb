@@ -20,7 +20,7 @@ Setting your database in .env file
 We use mongodb on this project
 
 Start Backend
-```js
+```
 npm run develop
 ```
 It is running here => http://localhost:1337/admin
@@ -35,7 +35,7 @@ Install dependencies
 npm install
 ```
 Start Frontend
-```js
+```
 npm run dev
 ```
 Next server is running here => http://localhost:3000
