@@ -33,7 +33,7 @@ After that you have to register for logging in to the backend and then setting p
 
 ![setpermission2](https://strapiuploadtoey.s3.us-east-1.amazonaws.com/setpermission2.jpg)
 
-And then you have to add the first restaurant here
+And then you have to add the first restaurant here. if you don't add, the frontend will have a problem. 
 
 ![addrestaurant](https://strapiuploadtoey.s3.us-east-1.amazonaws.com/addrestaurant.jpg)
 
