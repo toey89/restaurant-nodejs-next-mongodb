@@ -1,7 +1,7 @@
 # restaurant-nodejs-next-mongodb
 restaurant system
 
-[![example][https://strapiuploadtoey.s3.us-east-1.amazonaws.com/example.jpg](https://strapiuploadtoey.s3.us-east-1.amazonaws.com/example.jpg)
+![Image of Yaktocat](https://strapiuploadtoey.s3.us-east-1.amazonaws.com/example.jpg)
 
 ## Getting started
 The easiest way to try this starter is to run it locally on your computer.
